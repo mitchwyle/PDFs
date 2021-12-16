@@ -8,3 +8,6 @@ Web hosting of PDFs
 [Mitch Wyle Engineering
 Leader](https://github.com/mitchwyle/PDFs/blob/main/Engineering-Leader-Mitchell_Wyle.pdf)
 
+[Mitch Wyle Science
+Leader](https://github.com/mitchwyle/PDFs/blob/main/Applied-Science-Leader-Mitchell_Wyle.pdf)
+
